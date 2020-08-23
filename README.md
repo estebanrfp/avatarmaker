@@ -6,6 +6,6 @@ Avatar generator developed in pure javascript
 
 ![GitHub Logo](docs/screenshot.png)
 
-[Avatar Maker](https://avatarmaker.netlify.app/)
+[Avatar Maker](https://avatar-maker.netlify.app)
 
 Powered by [Esteban Fuster Pozzi / @estebanrfp](https://desarrolloactivo.com)
