@@ -7,7 +7,7 @@
     "module": "none",
     "outDir": "dist",
     "outFile": "dist/index.js",
-    "sourceMap": true,
+    "sourceMap": false,
     "allowJs" : true,
     "removeComments": true,
     "lib": [
