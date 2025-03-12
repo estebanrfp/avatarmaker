@@ -8,4 +8,4 @@ Avatar generator developed in pure javascript
 
 [Avatar Maker](https://avatar-maker.netlify.app)
 
-Powered by [Esteban Fuster Pozzi / @estebanrfp](https://desarrolloactivo.com)
+Powered by [Esteban Fuster Pozzi / @estebanrfp](https://estebanrfp.com)
